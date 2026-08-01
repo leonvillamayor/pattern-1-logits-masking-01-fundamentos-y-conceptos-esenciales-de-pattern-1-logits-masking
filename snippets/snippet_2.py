@@ -1,0 +1,1 @@
+generated_text = self.tokenizer.decode(input_ids[0])

@@ -1,0 +1,12 @@
+# Fundamentos y conceptos esenciales de Pattern 1: Logits Masking
+
+Fragmentos de código que acompañan al artículo del blog. Se publican como referencia rápida y autocontenida.
+
+📖 **Artículo completo:** [https://leonvillamayor.blog/cursos/pattern-1-logits-masking/01-fundamentos-y-conceptos-esenciales-de-pattern-1-logits-masking/](https://leonvillamayor.blog/cursos/pattern-1-logits-masking/01-fundamentos-y-conceptos-esenciales-de-pattern-1-logits-masking/)
+
+> [!NOTE]
+> Este repositorio contiene sólo **fragmentos** ilustrativos. El **proyecto completo ejecutable** (con tests y ejemplos) está disponible para suscriptores.
+
+## Licencia
+
+AGPL-3.0-or-later.
